@@ -198,7 +198,7 @@ interface PairedBarChartProps {
 
 /**
  * Two bars per month, side by side: the first in the history color, the
- * second in its lighter companion. The month in progress is hatched in both
+ * second in its companion color. The month in progress is hatched in both
  * so a partial month never reads as a bad one.
  */
 export function PairedBarChart({
