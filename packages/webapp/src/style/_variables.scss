@@ -350,6 +350,14 @@ $ns: bp4;
   --color-severity-plan: var(--color-overview-text-muted); // plan ahead
   --color-severity-done: #0b764d; // oklch(0.50 0.11 160)
   --color-severity-critical: #be2323; // oklch(0.52 0.19 27), reserved
+
+  // Dark style previews (Preferences -> Appearance); fixed in every theme.
+  --color-dark-style-protanopia-page: #1c2127;
+  --color-dark-style-protanopia-panel: #2f343c;
+  --color-dark-style-protanopia-accent: #8abbff;
+  --color-dark-style-soft-page: #121418;
+  --color-dark-style-soft-panel: #20232a;
+  --color-dark-style-soft-accent: #6aa7f4;
 }
 
 $pt-popover-box-shadow:
